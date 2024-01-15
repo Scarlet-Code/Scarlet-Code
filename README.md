@@ -8,15 +8,17 @@
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](https://www.gmail.com/in/SEUUSERNAME/)
 
 <h2>About me</h2>
-I'm 20 years old and a Full Stack developer and data analyst.
-I am currently studying the first year of Systems Analysis and Development.
-I find myself looking for the first job opportunity to enter this area. For this reason, I continue studying and improving my skills.
+Hi, I'm Yara and I'm 20 years old. 
+University in Systems Analysis and Development with knowledge of programming language, database and back-end. 
+Ability to solve problems, analytical skills and quick learning. 
+I look for opportunities to apply my knowledge in a growing company.
+
 
 
 ## Minhas Especialidades
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Front-end
@@ -31,6 +33,10 @@ I find myself looking for the first job opportunity to enter this area. For this
 
 ## Analytics
 ![GOOGLEANALYTICS](https://img.shields.io/badge/Google%20Analytics-000?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Desing
 ![FIGMA](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
