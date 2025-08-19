@@ -8,10 +8,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](https://www.gmail.com/in/SEUUSERNAME/)
 
 <h2>About me</h2>
-Hi, I'm Yara and I'm 20 years old. 
-University in Systems Analysis and Development with knowledge of programming language, database and back-end. 
-Ability to solve problems, analytical skills and quick learning. 
-I look for opportunities to apply my knowledge in a growing company.
+Hello, my name is Yara, and I am 22 years old. I have a degree in Systems Analysis and Development, and I currently work as an Analyst/DBA. I have knowledge in data analysis, data science, 
+relational and non-relational databases, programming languages, and frameworks. I possess strong problem-solving abilities, analytical skills, and a fast-learning mindset. I am always studying to 
+improve my knowledge and skills.
+
+"Knowledge is the richest thing, for it is the only thing that cannot be taken away from a human being."
 
 
 
